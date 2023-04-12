@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Ziymo
+tagline: AI powered products
 ---
 {% include JB/setup %}
 
